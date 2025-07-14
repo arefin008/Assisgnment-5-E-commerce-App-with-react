@@ -6,7 +6,7 @@ This is a frontend-only e-commerce application built using **React**, **React Ro
 
 ## 🔗 Live Demo
 
-🌐 [View on Netlify](https://e-commerce-app-with-react-assignment5.netlify.app/)  
+🌐 [Live URL](https://e-commerce-app-with-react-assignment5.netlify.app/)  
 
 ---
 
